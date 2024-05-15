@@ -1,0 +1,1 @@
+5 primeiros exercícios da lista do Wiki Python.
